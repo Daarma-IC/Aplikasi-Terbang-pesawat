@@ -1,11 +1,12 @@
-# endurance_flight
+# Flight Calculator for UAV
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Application still under Construction.
-The .apk is able to is in mobile.
+This application aims to determine the flight duration of a UAV, but the process is still in the design stage and this formula is still under estimated.
 
-Developer was byself
+Application still under Construction.
+The .apk is able in mobile.
+
